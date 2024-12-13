@@ -1,0 +1,180 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../images/bg-header-desktop.png);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+.centered-image{ 
+    margin: auto;
+    margin-top: 170px;
+    display: block;
+}
+.head{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+    color: black;
+    
+}
+.p1{
+    margin: auto;
+    width: 800px;
+    font-size: 27px;
+    margin-top: 10px;
+    color: rgb(187, 182, 182);
+}
+button{
+    width: 220px;
+    height: 60px;
+    border: 0;
+    border-radius:  50px; 
+    margin-top: 30px;
+    font-size: 17px;
+}
+.btn1{
+    background-color: rgb(3, 199, 156);
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+    color: white;
+}
+.btn2{
+    background-color: rgb(3, 137, 199);
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
+    color: white;
+}
+.sec{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+    color: black;
+    margin-top: 150px;
+}
+.p2{
+    margin: auto;
+    width: 890px;
+    font-size: 27px;
+    
+    color: rgb(187, 182, 182);
+
+}
+.sec3{
+    margin-top:50px ;
+    overflow: auto;
+}
+.computer{
+    float: left;
+    width: 50%;
+}
+.computer-content{
+    float: left;
+    padding-left: 20%;
+    width: 50%;
+    height: 300px;
+
+}
+.t1{
+    margin-top: 60px;
+    margin-left: 850px;
+    font-size: 30px;
+}
+.pp1{
+    margin-left: 850px;
+    font-size: 25px;
+    color: gray;
+    width: 480px;
+}
+.d3{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 30px;
+}
+.de{
+    margin-top: 100px;
+}
+.ai{
+    overflow: auto;
+    width: 80%;
+    margin: auto;
+    margin-top: 60px;
+}
+.d1{
+    float: left;
+    width: 30%;
+    
+}
+.ddd{
+    margin-right: 5%;
+    margin-left:5% ;
+}
+.tf{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.pf{
+    color: gray;
+    font-size: 23px;
+    margin: auto;
+    margin-top: 20px;
+}
+.f1{
+    margin-top: 23px;
+}
+.t1t{
+    margin-top:30px ;
+}
+.t2t{
+    margin-top:30px ;
+}
+.google{
+    overflow: auto;
+    width: 80%;
+    margin: auto;
+    margin-top: 60px;
+}
+.go{
+    float: left;
+    width: 16%;
+}
+.im{
+    margin-right: 5%;
+}
+.footer{
+    background-color: rgb(230, 227, 227);
+    height: 200px;
+    margin-top: 150px;
+    overflow: auto;
+}
+.ph{
+    width: 300px;
+    height: 100%;
+   float: left;
+    
+}
+.log{
+    margin-top: 50px;
+    width: 90px;
+    height: 90px;
+    
+}
+.co{
+    float: left;
+    margin-top: 50px;
+    width: 550px;
+    font-size: 20px;
+}
+.e3{
+    display: inline;
+    margin-right: 90px;
+}
+.face{
+    float: right;
+    margin-top: 100px;
+}
